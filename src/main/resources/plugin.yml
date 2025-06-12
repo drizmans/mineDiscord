@@ -1,0 +1,4 @@
+name: mineDiscord
+version: '1.0-SNAPSHOT'
+main: drizmans.mineDiscord.MineDiscord
+api-version: '1.21'
