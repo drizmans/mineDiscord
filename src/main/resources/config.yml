@@ -1,0 +1,7 @@
+# Discord webhook URL. Replace with your actual webhook URL.
+# You can create a webhook in your Discord server settings (Server Settings -> Integrations -> Webhooks).
+discord-webhook-url: "YOUR_DISCORD_WEBHOOK_URL_HERE"
+
+# List of player UUIDs that will be ignored from Discord logging.
+# Players on this list will not trigger join/leave alerts or activity updates.
+ignored-players: []
